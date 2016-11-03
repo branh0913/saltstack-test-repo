@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/Users/brandon.harrell/repo/saltstack-test-repo/salt","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/brandon.harrell/repo/saltstack-test-repo","disabled":false,"__vagrantfile":true}}}
